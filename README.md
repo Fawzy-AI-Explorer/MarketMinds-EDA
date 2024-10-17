@@ -1,1 +1,1 @@
-# Market-Minds---EDA
+# Market-Minds-EDA
