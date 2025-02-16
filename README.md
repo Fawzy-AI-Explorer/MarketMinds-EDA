@@ -5,8 +5,8 @@ Market-Minds-EDA is an exploratory data analysis (EDA) project focused on unders
 ## Features
 
 - Data cleaning and preprocessing
-- Statistical analysis and hypothesis testing
-- Interactive visualizations using Matplotlib, Seaborn, and Plotly
+- Correlation & Causation Analysis 
+- visualizations using Matplotlib, Seaborn, and Plotly
 - Insights and business recommendations based on data
 
 ## Requirements
