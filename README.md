@@ -19,11 +19,13 @@ Market-Minds-EDA is an exploratory data analysis (EDA) project focused on unders
 
 ## Usage
 1. Clone the repository:
+```sh
  git clone https://github.com/your-repo/Market-Minds-EDA.git
-
-2. Install dependencies:
-   pip install -r requirements.txt
-
+```
+3. Install dependencies:
+```sh
+pip install -r requirements.txt
+```sh
 
 
 
